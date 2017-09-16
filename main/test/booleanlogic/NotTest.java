@@ -1,3 +1,5 @@
+package booleanlogic;
+
 import mypackage.Not;
 import org.junit.Test;
 

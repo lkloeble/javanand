@@ -1,3 +1,5 @@
+package booleanlogic;
+
 import mypackage.And;
 import org.junit.Test;
 

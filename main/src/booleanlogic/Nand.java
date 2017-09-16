@@ -1,6 +1,6 @@
-package mypackage;
+package booleanlogic;
 
-import static mypackage.GateValue.*;
+import static booleanlogic.GateValue.*;
 
 /**
  * Created by Laurent KLOEBLE on 09/09/2017.

@@ -1,3 +1,5 @@
+package booleanlogic;
+
 import mypackage.Xor;
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package mypackage;
+package booleanlogic;
 
 /**
  * Created by Laurent KLOEBLE on 09/09/2017.
